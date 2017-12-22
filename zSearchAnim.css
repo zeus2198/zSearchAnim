@@ -25,7 +25,7 @@
     right: -22%;
     /* this value came after using some trigometry */
     bottom: -22%;
-    transition: all 2s;
+    transition: all 1s;
 }
 
 .clock .arm {
@@ -38,7 +38,7 @@
     bottom: 50%;
     right: 50%;
     height: 30%;
-    animation: searching 3s linear 2s infinite;
+    animation: searching 3s linear 1s infinite;
 }
 
 @keyframes searching {
