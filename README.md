@@ -21,7 +21,7 @@ var mySearchAnim = new zSearchAnim("targetID", {
     color: '#000', // color of circle and arms
     circleWidth: '5px', // circle border width
     armWidth: '5%' // magnifying glass and clock's arm's width, the percent width is relative to the dimension option.
-}
+});
 ```
 Starting the animation:
 ```javascript
