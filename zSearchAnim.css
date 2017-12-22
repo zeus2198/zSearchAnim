@@ -22,8 +22,7 @@
 
     position: absolute;
 
-    right: -22%;
-    /* this value came after using some trigometry */
+    right: -22%;/* this value came after using some trigometry */
     bottom: -22%;
     transition: all 1s;
 }
