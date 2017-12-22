@@ -13,8 +13,7 @@ function zSearchAnim(target, options) {
     this.target.style.width = this.target.style.height = this.dimension;
 
     var circle = document.createElement("div");
-    circle.className = 'circle';
-    console.log(this.circleWidth + ' soild ' + this.color);
+    circle.className = 'circle';    
     circle.style.border = this.circleWidth + ' solid ' + this.color;
 
 

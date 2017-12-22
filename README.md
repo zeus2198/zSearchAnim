@@ -5,7 +5,7 @@ This is a light-weight search animation plugin that is insipired by a .GIF image
 [Click Here](https://xxxzeus.github.io/zSearchAnim/example.html)
 
 # Importing in document
-Paste this in the <head> section of your HTML document
+Paste this in the head section of your HTML document
 ```html
 <link rel="stylesheet" type="text/css" href="/zSearchAnim.css">
 <script src='./zSearchAnim.js'></script>
@@ -21,7 +21,7 @@ var mySearchAnim = new zSearchAnim("targetID", {
     color: '#000', // color of circle and arms
     circleWidth: '5px', // circle border width
     armWidth: '5%' // magnifying glass and clock's arm's width, the percent width is relative to the dimension option.
-}
+});
 ```
 Starting the animation:
 ```javascript
