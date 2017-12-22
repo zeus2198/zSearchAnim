@@ -5,7 +5,7 @@ This is a light-weight search animation plugin that is insipired by a .GIF image
 [Click Here](https://xxxzeus.github.io/zSearchAnim/example.html)
 
 # Importing in document
-Paste this in the <head> section of your HTML document
+Paste this in the head section of your HTML document
 ```html
 <link rel="stylesheet" type="text/css" href="/zSearchAnim.css">
 <script src='./zSearchAnim.js'></script>
