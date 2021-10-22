@@ -2,7 +2,7 @@
 This is a light-weight search animation plugin that is insipired by a .GIF image that I saw long time ago.
 
 # Demo
-[Click Here](https://xxxzeus.github.io/zSearchAnim/example.html)
+[Click Here](https://zeus2198.github.io/zSearchAnim/example.html)
 
 # Importing in document
 Paste this in the head section of your HTML document
